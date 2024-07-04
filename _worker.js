@@ -11,7 +11,7 @@ let userID = 'f1b85bf0-2c88-40d7-8e92-2da147af372d';
 
 // https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
 // https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
-const proxyIPs= ['www.smnet.asia', 'www.visa.cn.cdn.cloudflare.net', 'cdn.anycast.eu.org'];
+const proxyIPs= ['cdn.smnet.asia', 'cdn-b100.xn--b6gac.eu.org', 'cdn.anycast.eu.org'];
 
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
